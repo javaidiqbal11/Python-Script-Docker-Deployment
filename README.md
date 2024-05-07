@@ -81,3 +81,8 @@ docker container prune
 ```
 docker image prune
 ```
+
+
+### Docker Deployment in the AWS
+
+
