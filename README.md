@@ -85,4 +85,5 @@ docker image prune
 
 ### Docker Deployment in the AWS
 
+[How to use Docker in the deplyment of image into AWS EC2](https://www.geeksforgeeks.org/web-page-hosting-in-docker-container-using-aws/)
 
